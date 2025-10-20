@@ -1,0 +1,30 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS directory metadata
+.Spotlight-V100
+.Trashes
+
+# macOS thumbnail files
+._*
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.~
+*.swp
+*.swo
+
+# IDE/project files
+.vscode/
+.idea/
+
+# Node/npm artifacts
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
